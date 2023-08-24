@@ -8,6 +8,8 @@ public class one {
         System.out.println("863");
         
         System.out.println("2222");
+        
+        System.out.println("5542");
 	}
 	
 	
